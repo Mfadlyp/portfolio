@@ -1,0 +1,36 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: rgb(209, 203, 203);
+}
+body {
+  min-height: 2000px;
+}
+
+#project {
+  padding-top: 5rem;
+  background-color: rgb(209, 203, 203);
+}
+
+#about {
+  padding-top: 5rem;
+  background-color: #273036;
+  color: white;
+}
+
+#contact {
+  padding-top: 5rem;
+  background-color: #273036;
+  color: white;
+  min-height: 460px;
+}
+
+footer {
+  padding-top: 5rem;
+  background-color: #273036;
+  color: white;
+  min-height: 50px;
+}
+footer p a {
+  text-decoration: none;
+  color: white;
+}
